@@ -1,3 +1,8 @@
+# Título y descripción del juego.
+
+print("HISTORIAS LOCAS")
+print('A continuación, deberás ingresar algunos datos para crear tu "Historia Loca".')
+
 # Colección de datos para crear la historia.
 
 nombre = input("Ingresa tu Nombre: ") # Input nombre.
@@ -5,10 +10,6 @@ apellido = input("Ingresa tu Apellido: ") # Input apellido.
 edad = input("Ingresa tu Edad: ") # Input edad.
 ubicacion = input("Ingresa tu Ubicación: ") # Input ubicacion.
 estudio = input("Ingresa que estas estudiando: ") # Input estudio.
-
-# Título del juego.
-
-print("HISTORIAS LOCAS")
 
 # Variable con f-string (reemplaza con los datos ingresados).
 
